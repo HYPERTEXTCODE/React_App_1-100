@@ -1,0 +1,27 @@
+.main {
+  padding: 20px;
+  background-color: gray;
+  border-radius: 20px;
+}
+
+h1{
+  display: grid;
+  grid-template-columns:fi;
+  letter-spacing:5mm;
+  margin: auto;
+  width: 50%;
+  border: 3px;
+  padding: 10px;
+  font-family: Lato;
+  color: white;
+}
+p {
+  letter-spacing: 0.75mm;
+  margin: auto;
+  width: 45%;
+  border: 3px;
+  padding: 10px;
+  font-family: Lato;
+  color: white;
+}
+
